@@ -1,26 +1,4 @@
 {
-    "embeds": [
-        {
-            "title": "FAQ Table of Contents:",
-            "description": "Welcome to LucidVR! If you're new, and want to start building, it's strongly recommended to watch the [official tutorial](https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648), as it goes over most aspects of the build process. If you have a more specific question, many of the most frequently asked questions can be found below:",
-            "color": 4321431,
-            "timestamp": "2022-10-06T00:11:16.618Z",
-            "url": "https://discord.com",
-            "author": {
-                "name": "",
-                "url": "https://discord.com",
-                "icon_url": ""
-            },
-            "thumbnail": {
-                "url": ""
-            },
-            "image": {
-                "url": "https://media.discordapp.net/attachments/830170742082895972/1026858764055363704/unknown.png"
-            },
-            "footer": {
-                "text": "",
-                "icon_url": ""
-            },
             "fields": [
                 {
                     "name": "Part 1:",
@@ -42,7 +20,9 @@
                     "value": "*[https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648](https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648)*",
                     "inline": false
                 }
-            ]
-        }
-    ]
+            ],
+	"title":"Table of Contents",
+	"description": "Welcome to LucidVR! If you're new, and want to start building, it's strongly recommended to watch the [official tutorial](https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648), as it goes over most aspects of the build process. If you have a more specific question, many of the most frequently asked questions can be found below:",
+	"color":2105893,
+    "type":"rich",
 }
