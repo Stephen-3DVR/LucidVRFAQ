@@ -1,0 +1,48 @@
+{
+    "embeds": [
+        {
+            "title": "FAQ Table of Contents:",
+            "description": "Welcome to LucidVR! If you're new, and want to start building, it's strongly recommended to watch the [official tutorial](https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648), as it goes over most aspects of the build process. If you have a more specific question, many of the most frequently asked questions can be found below:",
+            "color": 4321431,
+            "timestamp": "2022-10-06T00:11:16.618Z",
+            "url": "https://discord.com",
+            "author": {
+                "name": "",
+                "url": "https://discord.com",
+                "icon_url": ""
+            },
+            "thumbnail": {
+                "url": ""
+            },
+            "image": {
+                "url": "https://media.discordapp.net/attachments/830170742082895972/1026858764055363704/unknown.png"
+            },
+            "footer": {
+                "text": "",
+                "icon_url": ""
+            },
+            "fields": [
+                {
+                    "name": "Part 1:",
+                    "value": "- [I want to build a pair, where should I start?](https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648)\n- [Where're the {stls, firmware, etc.}](https://discord.com/channels/784543299045818420/922568146957774878/941036288398737499)\n- [Does this work with the Quest?](https://discord.com/channels/784543299045818420/922568146957774878/922575584482193408)\n- [What boards can I use for the gloves?](https://discord.com/channels/784543299045818420/922568146957774878/922575584482193408)\n- [Can I use an IMU (Or SlimeVR) to track the gloves?](https://discord.com/channels/784543299045818420/922568146957774878/922575584482193408)\n- [What can I use for tracking?](https://discord.com/channels/784543299045818420/922568146957774878/922575584482193408)\n- [When will Lucas start selling these?](https://discord.com/channels/784543299045818420/922568146957774878/922575804641189918)\n",
+                    "inline": false
+                },
+                {
+                    "name": "Part 2",
+                    "value": "- [Does {Game} support the gloves?](https://discord.com/channels/784543299045818420/922568146957774878/922575804641189918)\n- [Where can I buy 3D printed parts/commission someone to build a pair for me?](https://discord.com/channels/784543299045818420/922568146957774878/922575886237179924)\n- [What's the difference between Proto 3, 3.1, 4, and 4.1?](https://discord.com/channels/784543299045818420/922568146957774878/922579524200316960)\n- [What's the difference between the different pot holders?](https://discord.com/channels/784543299045818420/922568146957774878/924360718164303922)\n- [My springs aren't retracting fast enough!](https://discord.com/channels/784543299045818420/922568146957774878/924522367085080657)\n- [I can't seem to get these springs into the tensioner!](https://discord.com/channels/784543299045818420/922568146957774878/928098340854452295)",
+                    "inline": false
+                },
+                {
+                    "name": "Part 3",
+                    "value": "- [How should I power these?](https://discord.com/channels/784543299045818420/922568146957774878/928454724733272104)\n- [Has anyone made a 3D printed part for {x}?](https://discord.com/channels/784543299045818420/922568146957774878/928818032728473632)\n- [When will {The next thing} be ready?](https://discord.com/channels/784543299045818420/922568146957774878/935389353524465684)\n- [Wiring FAQ + Diagram](https://discord.com/channels/784543299045818420/922568146957774878/950809939776000000)\n- [How do I align my servos?](https://discord.com/channels/784543299045818420/922568146957774878/963116070821048421)\n- [Should I wait for Proto 5?](https://discord.com/channels/784543299045818420/922568146957774878/990824415942017155)",
+                    "inline": false
+                },
+                {
+                    "name": "Link to Top:",
+                    "value": "*[https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648](https://discord.com/channels/784543299045818420/922568146957774878/922573502744260648)*",
+                    "inline": false
+                }
+            ]
+        }
+    ]
+}
